@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://garikdallari.github.io/inTeam-project-hellen",
+  "homepage": "https://AlexDvor.github.io/hellen",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /inTeam-project-hellen/"
+    "build": "parcel build src/*.html --public-url /hellen/"
   },
   "repository": {
     "type": "git",
